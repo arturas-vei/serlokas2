@@ -16,9 +16,9 @@ https://arturas-vei.github.io/serlokas2/
 Design: [Serlokas](https://cdn.discordapp.com/attachments/648536139677958156/648860542743740428/404-Web-Page-Design-Examples-6.png)
 
 ## Project features
--css components
--html components
-s
+- css components
+- html components
+
 
 ## Authors
-[Arturas](https://arturas-vei.github.io/serlokas2/)
+[Arturas]
